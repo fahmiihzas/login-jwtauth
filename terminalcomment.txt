@@ -1,5 +1,0 @@
-npm init -y
-npm i express jsonwebtoken dotenv
-npm i --save-dev nodemon
-
-open node and type require('crypto').randomBytes(64).toString('hex') to get randomize string
